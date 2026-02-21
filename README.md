@@ -1,8 +1,8 @@
-# Expense Tracker \ud83d\udcb0
+# Expense Tracker
 
 A modern and elegant Flutter application for tracking expenses efficiently. Provide users with a clean interface to manage your daily expenditures, categorize them, and keep your budget in check.
 
-## Features \u2728
+## Features
 
 - **Local Storage:** Lightning-fast local data storage using `Hive` NoSQL database.
 - **State Management:** Seamless state handling and reactivity using `Provider`.
@@ -11,7 +11,7 @@ A modern and elegant Flutter application for tracking expenses efficiently. Prov
 - **Formatting:** Easy to read date and currency formats using `intl`.
 - **Cross-Platform:** Built with Flutter, supporting Android and iOS beautifully.
 
-## Tech Stack \ud83d\udee0\ufe0f
+## Tech Stack 
 
 - **Framework:** Flutter (SDK: ^3.11.0)
 - **Language:** Dart
@@ -21,7 +21,7 @@ A modern and elegant Flutter application for tracking expenses efficiently. Prov
   - `intl` for Date/Currency formatting
   - `uuid` for generating unique IDs
 
-## Getting Started \ud83d\ude80
+## Getting Started 
 
 If you want to run this project locally, follow these steps:
 
